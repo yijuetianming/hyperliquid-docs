@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support</loc>
+				<priority>1</priority>
+				<lastmod>2026-03-25T10:34:44.256Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/connectivity-issues</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-10T05:50:02.086Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/connectivity-issues/connected-via-wallet</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-09-22T10:16:42.110Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/connectivity-issues/connected-via-email</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-10T06:01:31.298Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-04-20T11:19:20.227Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-usdc</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-07-25T08:37:31.214Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-fiat</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-19T07:57:40.938Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-bitcoin-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-19T08:01:04.908Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-ethereum-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-19T08:01:04.548Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-solana-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-07-15T10:18:46.049Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-avalanche-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-20T11:18:13.278Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-base-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-20T11:18:13.324Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-monad-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-19T08:01:04.599Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/deposited-via-plasma-network</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-19T08:01:04.551Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/deposit-or-transfer-issues-missing-lost/transfer-or-deposit-to-usdc-perps-missing</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-12-15T03:16:45.061Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/withdrawal-issues</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-10T09:25:26.665Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/withdrawal-issues/withdrawal-has-not-arrived-in-my-wallet</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-19T08:04:55.227Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/withdrawal-issues/my-withdrawal-keeps-getting-re-deposited</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-13T06:58:22.143Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/withdrawal-issues/withdrawing-to-phantom-wallet</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-24T03:12:42.385Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-12-18T09:08:30.688Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect/why-was-i-liquidated</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-10T09:45:32.981Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect/how-does-margining-work</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-13T06:55:43.725Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect/my-tp-sl-did-not-execute-correctly</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-13T06:55:43.708Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect/why-was-my-chase-order-canceled</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-07-14T13:03:11.174Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect/i-cant-sell-leftover-spot-assets</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-12-18T09:02:42.732Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trade-outcome-looks-incorrect/what-does-action-already-expired-mean</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-12-18T09:02:21.409Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/hyperevm-issues</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-10T06:32:06.504Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/hyperevm-issues/accidentally-transferred-to-hyperevm</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-10T09:54:25.019Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/hyperevm-issues/cant-see-my-hyperevm-assets-in-wallet-extension</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-24T03:12:42.385Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/hyperevm-issues/gas-problem-on-evm</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-24T03:11:51.473Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/portfolio-margin</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-26T14:06:12.320Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/manual-borrows</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-09-18T08:13:59.349Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/trailing-stops</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-09-11T10:59:11.463Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/unstaking-and-link-staking-issues</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-10T06:33:08.261Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/unstaking-and-link-staking-issues/unstaking-transfer-taking-more-than-7-days</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-10T10:05:21.698Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/unstaking-and-link-staking-issues/staking-and-trading-account-linking-issues</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-13T06:58:45.806Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/building-on-hyperliquid</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-10T06:33:08.261Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/building-on-hyperliquid/i-have-api-related-questions</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-10T08:46:36.866Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/building-on-hyperliquid/i-want-to-deploy-a-spot-token-or-list-a-perp</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-06-10T09:06:06.350Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/faq/i-got-scammed-hacked</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-12-15T03:12:02.353Z</lastmod>
+</url>
+
+
+</urlset>

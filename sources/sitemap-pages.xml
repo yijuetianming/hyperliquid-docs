@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs</loc>
+				<priority>1</priority>
+				<lastmod>2026-06-05T09:20:54.883Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/about-hyperliquid/hyperliquid-101-for-non-crypto-audiences</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:32:26.204Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/about-hyperliquid/core-contributors</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T07:31:48.110Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding</loc>
+				<priority>1</priority>
+				<lastmod>2024-10-03T14:47:44.394Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/how-to-start-trading</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-23T22:37:10.553Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/how-to-use-the-hyperevm</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.156Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/how-to-stake-hype</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:32:26.210Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/connect-mobile-via-qr-code</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.157Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/export-your-email-wallet</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-07T10:13:37.896Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/onboarding/testnet-faucet</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.157Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore</loc>
+				<priority>1</priority>
+				<lastmod>2024-03-29T01:12:42.418Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/overview</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:32:26.205Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/usdc</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-07T09:56:04.950Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/api-servers</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:32:26.211Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/clearinghouse</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:32:26.212Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/oracle</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-10-21T04:02:03.790Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/order-book</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-30T05:12:45.930Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/staking</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:43:30.245Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:43:30.245Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults/protocol-vaults</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-17T06:13:19.158Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults/hypercore-vaults-legacy</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-02-26T04:30:44.541Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults/for-vault-leaders-legacy</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-17T06:13:19.158Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/vaults/for-vault-depositors-legacy</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-17T06:13:19.158Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/multi-sig</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:43:30.246Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/permissionless-spot-quote-assets</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:43:30.247Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hypercore/aligned-quote-assets</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.159Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperevm</loc>
+				<priority>1</priority>
+				<lastmod>2026-08-17T06:13:19.160Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperevm/tools-for-hyperevm-builders</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-09-16T06:23:25.981Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips</loc>
+				<priority>1</priority>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips/hip-1-native-token-standard</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:43:30.248Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips/hip-2-hyperliquidity</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:48:38.355Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips/hip-3-builder-deployed-perpetuals</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-05T10:11:13.334Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips/hip-4-outcome-markets</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-06-05T09:48:38.355Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/hyperliquid-improvement-proposals-hips/frontend-checks</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-20T11:34:31.713Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading</loc>
+				<priority>1</priority>
+				<lastmod>2025-12-14T09:52:54.636Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/fees</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-19T06:07:34.119Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/sub-accounts</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-03-03T06:51:31.575Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/builder-codes</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-05-23T12:24:01.191Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/perpetual-assets</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-12T11:32:39.651Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/contract-specifications</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-05-07T07:50:55.269Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/margining</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-02-23T08:35:10.827Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/account-abstraction-modes</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-07-31T05:55:58.731Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/portfolio-margin</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-09-22T13:30:01.616Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/margin-tiers</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-04-24T10:52:23.009Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/robust-price-indices</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-05-21T13:35:09.068Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/liquidations</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-06-23T05:49:00.146Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/auto-deleveraging</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-10-21T04:02:42.457Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/funding</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-04-08T03:25:00.854Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/order-book</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T08:55:56.830Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/order-types</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-09-19T08:33:06.057Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/take-profit-and-stop-loss-orders-tp-sl</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.168Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/entry-price-and-pnl</loc>
+				<priority>0.84</priority>
+				<lastmod>2024-07-03T08:23:54.536Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/self-trade-prevention</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T09:58:03.489Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/index-perpetual-contracts</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T10:00:29.344Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/uniswap-perpetuals</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T10:01:43.112Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/hyperps</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.168Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/delisting</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-01-06T07:43:57.391Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/market-making</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-17T06:13:19.168Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/portfolio-graphs</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T09:58:03.489Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/trading/miscellaneous-ui</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-06T09:58:03.453Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/validators</loc>
+				<priority>1</priority>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/validators/running-a-validator</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-08-07T10:02:10.895Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/validators/delegation-program</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-03-04T07:26:16.192Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/referrals</loc>
+				<priority>1</priority>
+				<lastmod>2025-10-08T15:09:57.404Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/referrals/proposal-staking-referral-program</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-07-15T03:57:08.932Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/points</loc>
+				<priority>1</priority>
+				<lastmod>2024-12-06T06:41:53.495Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/historical-data</loc>
+				<priority>1</priority>
+				<lastmod>2026-05-20T08:41:03.341Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/bug-bounty-program</loc>
+				<priority>1</priority>
+				<lastmod>2026-03-25T10:33:20.332Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/audits</loc>
+				<priority>1</priority>
+				<lastmod>2026-08-07T10:07:12.319Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/brand-kit</loc>
+				<priority>1</priority>
+				<lastmod>2026-07-15T07:36:42.318Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-01-10T15:58:06.602Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/notation</loc>
+				<priority>0.7</priority>
+				<lastmod>2024-03-26T17:25:30.494Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/asset-ids</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-10T11:06:23.114Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/tick-and-lot-size</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-05-27T08:42:01.680Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/nonces-and-api-wallets</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-04-28T13:38:15.086Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/info-endpoint</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-10-01T23:00:29.021Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/info-endpoint/perpetuals</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-10-01T23:03:31.724Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/info-endpoint/spot</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-10-01T23:03:31.729Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/exchange-endpoint</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-10-01T22:56:46.118Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/websocket</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-01-06T00:44:54.143Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/websocket/subscriptions</loc>
+				<priority>0.59</priority>
+				<lastmod>2026-06-12T15:10:01.491Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/websocket/post-requests</loc>
+				<priority>0.59</priority>
+				<lastmod>2025-03-06T10:26:01.634Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/websocket/timeouts-and-heartbeats</loc>
+				<priority>0.59</priority>
+				<lastmod>2025-03-06T10:26:01.634Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/error-responses</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-10T05:37:35.244Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/signing</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-05-16T17:31:36.733Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/rate-limits-and-user-limits</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-04-28T02:43:32.166Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/activation-gas-fee</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-06-05T08:53:50.044Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/optimizing-latency</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-07-12T07:54:27.875Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/priority-fees</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-07-17T18:50:18.067Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/usdc</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-07T10:05:05.529Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/deploying-hip-1-and-hip-2-assets</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-24T14:49:12.300Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/hip-3-deployer-actions</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-09-24T09:38:23.825Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/hip-4-deployer-actions</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-29T07:57:02.114Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/hip-3-deployer-actions-1</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-09-24T09:28:07.472Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm</loc>
+				<priority>0.84</priority>
+				<lastmod>2026-09-10T05:38:15.666Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/dual-block-architecture</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-05-21T03:31:33.231Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/raw-hyperevm-block-data</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-01-12T20:04:20.506Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/interacting-with-hypercore</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-08-19T10:34:35.530Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/hypercore-less-than-greater-than-hyperevm-transfers</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-03-18T02:40:49.025Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/interaction-timings</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-09-17T20:35:37.995Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/wrapped-hype</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-02-18T08:48:37.176Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/hyperevm/json-rpc</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-01-12T17:54:30.189Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/nodes</loc>
+				<priority>0.84</priority>
+				<lastmod>2025-05-08T17:23:11.374Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/nodes/l1-data-schemas</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-07-23T09:23:48.054Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/nodes/foundation-non-validating-node</loc>
+				<priority>0.7</priority>
+				<lastmod>2025-07-30T08:17:33.771Z</lastmod>
+</url>
+
+			<url>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/nodes/foundation-non-validating-node-for-infra-providers</loc>
+				<priority>0.7</priority>
+				<lastmod>2026-10-03T11:05:14.352Z</lastmod>
+</url>
+
+
+</urlset>

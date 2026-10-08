@@ -1,0 +1,40 @@
+<!-- Source: https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/nodes/foundation-non-validating-node-for-infra-providers -->
+
+> For the complete documentation index, see [llms.txt](https://hyperliquid.gitbook.io/hyperliquid-docs/llms.txt). Markdown versions of documentation pages are available by appending `.md` to page URLs; this page is available as [Markdown](foundation-non-validating-node-for-infra-providers.md).
+
+# Foundation non-validating node for infra providers
+
+Builders should be able to connect to any of the infrastructure providers' peering services below. They have committed to offer high-quality peering services to the public for a reasonable price. If any of the peering services listed below do not meet this committment, please notify the Foundation team via email (bugbounty \[at] hyperfoundation \[dot] org).&#x20;
+
+### Available peers for builders to connect to
+
+* 0xArchive - <https://docs.0xarchive.io/peering>
+* Alchemy - [https://www.alchemy.com/docs/chains/hypercore-peering/overview](<https://www.alchemy.com/docs/chains/hypercore-peering/overview >)
+* Allium - <https://docs.allium.so/nodes/hyperliquid-sentry-peer>
+* Altitude - <https://docs.reachaltitude.xyz/rpc/hyperliquid-node-peering>
+* ASXN - <https://hyperscreener.asxn.xyz/direct-sentry-peering>
+* DoubleZero - <https://docs.doublezero.xyz/hyperliquid>
+* Dwellir - <https://www.dwellir.com/docs/hyperliquid/peering>
+* Hydromancer - <https://docs.hydromancer.xyz/peering>
+* Hypedexer - <https://docs.hypedexer.com/peering/overview>
+* Hyperdash - <https://docs.hyperdash.com/data/direct-sentry-peering>&#x20;
+* HyperTracker - <https://docs.coinmarketman.com/endpoints/rate-limits-and-pricing>
+* Luganodes - <https://docs.luganodes.com/tools-and-services/hyperliquid/hyperliquid-node-peering>
+* Proof Group - <https://www.purroofgroup.com/docs/peering>
+* Quicknode - <https://www.quicknode.com/hyperliquid-peering>
+* Spectrum - <https://spectrumnodes.com/hyperliquid-peering>
+* ZAN - <https://docs.zan.top/reference/hyperliquid-sentry-peering-zan>
+
+### Eligibility
+
+To further reduce the barrier to entry for obtaining high-quality onchain data, the Foundation non-validating node is open to high-quality infrastructure providers as a reliable peer.&#x20;
+
+* Reputable infrastructure provider with track record of excellent SLAs, used by a diverse set of builders. Criteria for consideration include: minimum operating history of 1 year as an infrastructure provider, with a minimum of 100 clients operated across 5 distinct networks/protocols, and no history of a peering or service agreement terminated for cause by another network or foundation in the preceding 3 months.
+* Uptime of 99.9%.
+* Open access with non-discriminatory pricing. The current benchmark price is less than $1k/month, which covers compute and egress costs.
+* Auto-scaling with number of peers connected to the service.
+* No preferential treatment of specific clients (e.g., market makers).
+
+### Apply  <a href="#apply" id="apply"></a>
+
+If you are eligible, you may fill out the [form](https://forms.gle/pqht3DFBg5ycSpAb7).

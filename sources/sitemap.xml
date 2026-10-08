@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+		<sitemap>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/sitemap-pages.xml</loc>
+
+		</sitemap>
+		<sitemap>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/builder-tools/sitemap-pages.xml</loc>
+
+		</sitemap>
+		<sitemap>
+				<loc>https://hyperliquid.gitbook.io/hyperliquid-docs/support/sitemap-pages.xml</loc>
+
+		</sitemap>
+
+</sitemapindex>
